@@ -1,4 +1,4 @@
-PRODIGY_CS_03 PASSWORD COMPLEXITY CHECKER
+ PASSWORD COMPLEXITY CHECKER
 
 A Password Complexity Checker is a tool or program designed to evaluate the strength of a password based on various criteria. These criteria typically include factors such as length, the presence of different types of characters (uppercase letters, lowercase letters, numbers, and special characters), and the overall complexity of the password.
 
